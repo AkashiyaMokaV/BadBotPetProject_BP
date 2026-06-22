@@ -1,0 +1,3 @@
+Begin Object Class=/Script/Engine.SoundAttenuation Name="att_InWorld" ExportPath="/Script/Engine.SoundAttenuation'/Game/Global/Sounds/Explode/att_InWorld.att_InWorld'"
+   Attenuation=(AttenuationShapeExtents=(X=200.000000,Y=0.000000,Z=0.000000),FalloffDistance=2000.000000)
+End Object
